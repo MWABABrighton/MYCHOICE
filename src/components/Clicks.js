@@ -8,11 +8,8 @@ function Clicks (){
         <p>MY CHOICE PHOTOGRAPHY </p>
         
         </div>
-        <div >
-        <img src={DSC} alt="pic"/>
-        <p>MY CHOICE PHOTOGRAPHY </p>
         
-        </div>
+     
 </body>
     
 }   export default Clicks;                                   
