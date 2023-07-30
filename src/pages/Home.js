@@ -2,7 +2,7 @@ import React from "react";
 
 import FunctionalComp from "../components/FunctionalComp";
 import Nav from "../components/Nav";
-
+import Footer from "../components/Footer";
 import DSC from '../assets/images/img_forest.jpg';
 import DSC1 from '../assets/images/HM6A4869.jpg';
 import DSC2 from '../assets/images/HM6A4886.jpg';
@@ -42,8 +42,9 @@ export default function Home() {
    
 
       
-
+        <Footer/>
 
       </body>
+     
     )
 }
